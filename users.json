@@ -1,0 +1,14 @@
+[
+  {
+    "email": "test@test.com",
+    "phone": "99999999999",
+    "ref": 100,
+    "refBy": null
+  },
+  {
+    "email": "test2@test.com",
+    "phone": "99999999998",
+    "ref": 200,
+    "refBy": 100
+  }
+]
